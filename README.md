@@ -11,7 +11,7 @@ public/
   index.html        conteúdo da página
   styles.css        estilos (cores, tipografia, layout)
   favicon.svg       ícone do separador
-  og-editorial.png  imagem mostrada quando o link é partilhado
+  og-patricia.png  imagem mostrada quando o link é partilhado
   img/              capturas dos projetos
 wrangler.jsonc      configuração de publicação na Cloudflare
 ```
