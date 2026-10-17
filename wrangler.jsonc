@@ -1,0 +1,8 @@
+// Configuração da Cloudflare: publica tudo o que está na pasta "public"
+{
+  "name": "portfolio",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
