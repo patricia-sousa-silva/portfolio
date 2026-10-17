@@ -12,6 +12,7 @@ public/
   styles.css        estilos (cores, tipografia, layout)
   favicon.svg       ícone do separador
   og-editorial.png  imagem mostrada quando o link é partilhado
+  img/              capturas dos projetos
 wrangler.jsonc      configuração de publicação na Cloudflare
 ```
 
